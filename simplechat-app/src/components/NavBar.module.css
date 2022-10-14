@@ -1,0 +1,27 @@
+#background {
+    background-color: #47B5FF;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    flex: 0 1 auto;
+}
+
+h1 {
+    display: inline-block;
+    margin: 0;
+    color: white;
+}
+
+#login_logout_button {
+    color: #5F6F94;
+    font-weight: bold;
+    font-size: 18px;
+    border: None;
+    background-color: #ABD9FF;
+}
+
+#login_logout_button:hover {
+    cursor: pointer;
+    background-color: #729fc4;
+}
+

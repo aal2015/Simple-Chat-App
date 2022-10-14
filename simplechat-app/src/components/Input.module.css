@@ -1,0 +1,19 @@
+#grid_container {
+    display: grid;
+    grid-template-columns: 80% auto;
+    flex: 0 1 40px;
+}
+
+#submit_button {
+    background-color: #7FBCD2;
+}
+
+#submit_button:enabled:hover {
+    cursor: pointer;
+}
+
+#chat_input {
+    padding: 12px 20px;
+    font-size:large;
+    box-sizing: border-box;
+}

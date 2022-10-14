@@ -1,0 +1,33 @@
+.App {
+  background-color: #FFFFFF;
+  max-width: 650px;
+  margin: 0 auto;
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}
+
+#content-background {
+  flex: 1 1 auto;
+  overflow: auto;
+  
+}
+
+#auth-content-background {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  align-items: center;
+}
+
+#content-background button {
+  padding: 5px;
+  font-size: large;
+  justify-content: center;
+  background-color: #31C6D4;
+}
+
+#content-background button:hover {
+  cursor: pointer;
+  background-color: #238790;
+}
