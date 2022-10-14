@@ -1,2 +1,6 @@
 https://stackoverflow.com/questions/45719909/scroll-to-bottom-of-an-overflowing-div-in-react
 (for scroll to start at the bottom by default)
+
+https://www.youtube.com/watch?v=zQyrwxMPm88&t=95s
+--> referred to it for app design idea
+--> though some code was referred, most of it is done from scratch
